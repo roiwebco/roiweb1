@@ -57,10 +57,12 @@ function woodemy1_frontend_notice_css(){
 			position: fixed;
 			bottom: 0;
 			background: white;
-			padding: 20px;
+			padding: 20px 15px;
 			box-shadow: 1px 1px 10px grey;
 			width: 100%!important;
-			text-align: center;
+			text-align: left;
+			display: block;
+			box-sizing: border-box;
 		}
 		#wzr-mandatory {
 			font-weight: 900;
